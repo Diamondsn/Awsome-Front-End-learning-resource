@@ -460,8 +460,8 @@ HTML5
 
 
 
-  [1]: /img/3.jpeg
-  [2]: /img/2.jpeg
+  [1]: ./img/3.jpeg
+  [2]: ./img/2.jpeg
   [3]: https://github.com/dypsilon/frontend-dev-bookmarks
   [4]: https://github.com/foru17/front-end-collect
   [5]: https://github.com/hawx1993/Front-end-Interview-questions
@@ -473,7 +473,7 @@ HTML5
   [11]: https://github.com/nimojs/gulp-book
   [12]: https://github.com/AutumnsWind/Front-end-tutorial
   [13]: https://github.com/Semantic-Org/Semantic-UI
-  [14]: /img/1.jpeg
+  [14]: ./img/1.jpeg
   [15]: https://github.com/primer/primer
   [16]: https://github.com/jorgebastida/glue#glue
   [17]: https://github.com/postcss/postcss#plugins
@@ -481,7 +481,7 @@ HTML5
   [19]: https://github.com/muicss/mui
   [20]: https://github.com/javierbyte/img2css
   [21]: https://github.com/mochajs/mocha
-  [22]: /img/5.png
+  [22]: ./img/5.png
   [23]: https://github.com/zmoazeni/csscss
   [24]: https://github.com/addyosmani/es6-tools
   [25]: https://github.com/caolan/async
@@ -564,7 +564,7 @@ HTML5
   [102]: https://github.com/callemall/material-ui
   [103]: https://github.com/dbushell/Pikaday
   [104]: http://dbushell.github.io/Pikaday/
-  [105]: /img/bVmxon
+  [105]: ./img/bVmxon
   [106]: https://github.com/yyx990803/vue
   [107]: https://github.com/meteor/meteor
   [108]: https://github.com/fex-team/webuploader
@@ -583,7 +583,7 @@ HTML5
   [121]: https://github.com/sdc-alibaba/SUI-Mobile
   [122]: https://github.com/amfe/lib-flexible
   [123]: http://nodeframework.com/
-  [124]: /img/4.jpeg
+  [124]: ./img/4.jpeg
   [125]: https://github.com/cnodejs/nodeclub
   [126]: https://github.com/nswbmw/N-chat
   [127]: https://github.com/nswbmw/N-blog
